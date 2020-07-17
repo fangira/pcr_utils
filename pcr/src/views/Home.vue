@@ -49,7 +49,7 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from "@/components/HelloWorld.vue";
-import levelMap from '@/json/level.json';
+import levelMap from "@/json/level.json";
 
 export default {
   name: "Home",
@@ -71,13 +71,28 @@ export default {
   methods: {
     onChange(value) {
       console.log("changed", value);
+      this.calExp();
+    },
+    calExp() {
+      let currentExp;
+      let targetExp;
+      levelMap.forEach(item => {
+        if (item.level == this.currentLevel) {
+          currentExp = item.totalNeed;
+        }
+        if (item.level == this.targetLevel) {
+          targetExp = item.totalNeed;
+        }
+      });
+      // 经验差
+      let offsetExp = targetExp - currentExp;
+      console.log("offsetExp", offsetExp);
+      this.result = offsetExp;
     }
   },
   created() {
-    console.log("levelMap",levelMap);
-    let currentExp = levelMap.forEach((item)=>{if(item.level==this.currentLevel)return item.totalNeed});
-    console.log("currentExp",currentExp);
-  },
+    this.calExp();
+  }
 };
 </script>
 <style lang="scss">
