@@ -1,0 +1,842 @@
+[
+    {
+        "level": 1,
+        "eachNeed": 0,
+        "realNeed": 0,
+        "totalNeed": 0,
+        "getByLevelUp": 0
+    },
+    {
+        "level": 2,
+        "eachNeed": 24,
+        "realNeed": 4,
+        "totalNeed": 4,
+        "getByLevelUp": 20
+    },
+    {
+        "level": 3,
+        "eachNeed": 8,
+        "realNeed": "-13",
+        "totalNeed": 12,
+        "getByLevelUp": 21
+    },
+    {
+        "level": 4,
+        "eachNeed": 8,
+        "realNeed": "-13",
+        "totalNeed": 20,
+        "getByLevelUp": 21
+    },
+    {
+        "level": 5,
+        "eachNeed": 8,
+        "realNeed": "-14",
+        "totalNeed": 28,
+        "getByLevelUp": 22
+    },
+    {
+        "level": 6,
+        "eachNeed": 16,
+        "realNeed": "-6",
+        "totalNeed": 44,
+        "getByLevelUp": 22
+    },
+    {
+        "level": 7,
+        "eachNeed": 16,
+        "realNeed": "-7",
+        "totalNeed": 60,
+        "getByLevelUp": 23
+    },
+    {
+        "level": 8,
+        "eachNeed": 16,
+        "realNeed": "-7",
+        "totalNeed": 76,
+        "getByLevelUp": 23
+    },
+    {
+        "level": 9,
+        "eachNeed": 24,
+        "realNeed": 0,
+        "totalNeed": 100,
+        "getByLevelUp": 24
+    },
+    {
+        "level": 10,
+        "eachNeed": 48,
+        "realNeed": 24,
+        "totalNeed": 148,
+        "getByLevelUp": 24
+    },
+    {
+        "level": 11,
+        "eachNeed": 56,
+        "realNeed": 31,
+        "totalNeed": 204,
+        "getByLevelUp": 25
+    },
+    {
+        "level": 12,
+        "eachNeed": 56,
+        "realNeed": 31,
+        "totalNeed": 260,
+        "getByLevelUp": 25
+    },
+    {
+        "level": 13,
+        "eachNeed": 64,
+        "realNeed": 38,
+        "totalNeed": 324,
+        "getByLevelUp": 26
+    },
+    {
+        "level": 14,
+        "eachNeed": 76,
+        "realNeed": 50,
+        "totalNeed": 400,
+        "getByLevelUp": 26
+    },
+    {
+        "level": 15,
+        "eachNeed": 82,
+        "realNeed": 55,
+        "totalNeed": 482,
+        "getByLevelUp": 27
+    },
+    {
+        "level": 16,
+        "eachNeed": 82,
+        "realNeed": 54,
+        "totalNeed": 564,
+        "getByLevelUp": 28
+    },
+    {
+        "level": 17,
+        "eachNeed": 82,
+        "realNeed": 52,
+        "totalNeed": 646,
+        "getByLevelUp": 30
+    },
+    {
+        "level": 18,
+        "eachNeed": 82,
+        "realNeed": 47,
+        "totalNeed": 728,
+        "getByLevelUp": 35
+    },
+    {
+        "level": 19,
+        "eachNeed": 82,
+        "realNeed": 42,
+        "totalNeed": 810,
+        "getByLevelUp": 40
+    },
+    {
+        "level": 20,
+        "eachNeed": 100,
+        "realNeed": 55,
+        "totalNeed": 910,
+        "getByLevelUp": 45
+    },
+    {
+        "level": 21,
+        "eachNeed": 110,
+        "realNeed": 60,
+        "totalNeed": 1020,
+        "getByLevelUp": 50
+    },
+    {
+        "level": 22,
+        "eachNeed": 138,
+        "realNeed": 83,
+        "totalNeed": 1158,
+        "getByLevelUp": 55
+    },
+    {
+        "level": 23,
+        "eachNeed": 138,
+        "realNeed": 78,
+        "totalNeed": 1296,
+        "getByLevelUp": 60
+    },
+    {
+        "level": 24,
+        "eachNeed": 142,
+        "realNeed": 72,
+        "totalNeed": 1438,
+        "getByLevelUp": 70
+    },
+    {
+        "level": 25,
+        "eachNeed": 146,
+        "realNeed": 66,
+        "totalNeed": 1584,
+        "getByLevelUp": 80
+    },
+    {
+        "level": 26,
+        "eachNeed": 151,
+        "realNeed": 66,
+        "totalNeed": 1735,
+        "getByLevelUp": 85
+    },
+    {
+        "level": 27,
+        "eachNeed": 155,
+        "realNeed": 70,
+        "totalNeed": 1890,
+        "getByLevelUp": 85
+    },
+    {
+        "level": 28,
+        "eachNeed": 160,
+        "realNeed": 74,
+        "totalNeed": 2050,
+        "getByLevelUp": 86
+    },
+    {
+        "level": 29,
+        "eachNeed": 165,
+        "realNeed": 78,
+        "totalNeed": 2215,
+        "getByLevelUp": 87
+    },
+    {
+        "level": 30,
+        "eachNeed": 170,
+        "realNeed": 82,
+        "totalNeed": 2385,
+        "getByLevelUp": 88
+    },
+    {
+        "level": 31,
+        "eachNeed": 174,
+        "realNeed": 85,
+        "totalNeed": 2559,
+        "getByLevelUp": 89
+    },
+    {
+        "level": 32,
+        "eachNeed": 181,
+        "realNeed": 91,
+        "totalNeed": 2740,
+        "getByLevelUp": 90
+    },
+    {
+        "level": 33,
+        "eachNeed": 185,
+        "realNeed": 94,
+        "totalNeed": 2925,
+        "getByLevelUp": 91
+    },
+    {
+        "level": 34,
+        "eachNeed": 191,
+        "realNeed": 99,
+        "totalNeed": 3116,
+        "getByLevelUp": 92
+    },
+    {
+        "level": 35,
+        "eachNeed": 197,
+        "realNeed": 104,
+        "totalNeed": 3313,
+        "getByLevelUp": 93
+    },
+    {
+        "level": 36,
+        "eachNeed": 202,
+        "realNeed": 108,
+        "totalNeed": 3515,
+        "getByLevelUp": 94
+    },
+    {
+        "level": 37,
+        "eachNeed": 209,
+        "realNeed": 114,
+        "totalNeed": 3724,
+        "getByLevelUp": 95
+    },
+    {
+        "level": 38,
+        "eachNeed": 230,
+        "realNeed": 134,
+        "totalNeed": 3954,
+        "getByLevelUp": 96
+    },
+    {
+        "level": 39,
+        "eachNeed": 252,
+        "realNeed": 155,
+        "totalNeed": 4206,
+        "getByLevelUp": 97
+    },
+    {
+        "level": 40,
+        "eachNeed": 278,
+        "realNeed": 180,
+        "totalNeed": 4484,
+        "getByLevelUp": 98
+    },
+    {
+        "level": 41,
+        "eachNeed": 306,
+        "realNeed": 207,
+        "totalNeed": 4790,
+        "getByLevelUp": 99
+    },
+    {
+        "level": 42,
+        "eachNeed": 342,
+        "realNeed": 242,
+        "totalNeed": 5132,
+        "getByLevelUp": 100
+    },
+    {
+        "level": 43,
+        "eachNeed": 383,
+        "realNeed": 282,
+        "totalNeed": 5515,
+        "getByLevelUp": 101
+    },
+    {
+        "level": 44,
+        "eachNeed": 430,
+        "realNeed": 328,
+        "totalNeed": 5945,
+        "getByLevelUp": 102
+    },
+    {
+        "level": 45,
+        "eachNeed": 481,
+        "realNeed": 378,
+        "totalNeed": 6426,
+        "getByLevelUp": 103
+    },
+    {
+        "level": 46,
+        "eachNeed": 558,
+        "realNeed": 454,
+        "totalNeed": 6984,
+        "getByLevelUp": 104
+    },
+    {
+        "level": 47,
+        "eachNeed": 647,
+        "realNeed": 542,
+        "totalNeed": 7631,
+        "getByLevelUp": 105
+    },
+    {
+        "level": 48,
+        "eachNeed": 750,
+        "realNeed": 644,
+        "totalNeed": 8381,
+        "getByLevelUp": 106
+    },
+    {
+        "level": 49,
+        "eachNeed": 871,
+        "realNeed": 764,
+        "totalNeed": 9252,
+        "getByLevelUp": 107
+    },
+    {
+        "level": 50,
+        "eachNeed": 1010,
+        "realNeed": 902,
+        "totalNeed": 10262,
+        "getByLevelUp": 108
+    },
+    {
+        "level": 51,
+        "eachNeed": 1172,
+        "realNeed": 1063,
+        "totalNeed": 11434,
+        "getByLevelUp": 109
+    },
+    {
+        "level": 52,
+        "eachNeed": 1359,
+        "realNeed": 1249,
+        "totalNeed": 12793,
+        "getByLevelUp": 110
+    },
+    {
+        "level": 53,
+        "eachNeed": 1576,
+        "realNeed": 1465,
+        "totalNeed": 14369,
+        "getByLevelUp": 111
+    },
+    {
+        "level": 54,
+        "eachNeed": 1770,
+        "realNeed": 1658,
+        "totalNeed": 16139,
+        "getByLevelUp": 112
+    },
+    {
+        "level": 55,
+        "eachNeed": 1770,
+        "realNeed": 1657,
+        "totalNeed": 17909,
+        "getByLevelUp": 113
+    },
+    {
+        "level": 56,
+        "eachNeed": 1770,
+        "realNeed": 1656,
+        "totalNeed": 19679,
+        "getByLevelUp": 114
+    },
+    {
+        "level": 57,
+        "eachNeed": 1770,
+        "realNeed": 1655,
+        "totalNeed": 21449,
+        "getByLevelUp": 115
+    },
+    {
+        "level": 58,
+        "eachNeed": 1770,
+        "realNeed": 1654,
+        "totalNeed": 23219,
+        "getByLevelUp": 116
+    },
+    {
+        "level": 59,
+        "eachNeed": 1770,
+        "realNeed": 1653,
+        "totalNeed": 24989,
+        "getByLevelUp": 117
+    },
+    {
+        "level": 60,
+        "eachNeed": 1770,
+        "realNeed": 1652,
+        "totalNeed": 26759,
+        "getByLevelUp": 118
+    },
+    {
+        "level": 61,
+        "eachNeed": 1770,
+        "realNeed": 1651,
+        "totalNeed": 28529,
+        "getByLevelUp": 119
+    },
+    {
+        "level": 62,
+        "eachNeed": 1770,
+        "realNeed": 1650,
+        "totalNeed": 30299,
+        "getByLevelUp": 120
+    },
+    {
+        "level": 63,
+        "eachNeed": 1770,
+        "realNeed": 1649,
+        "totalNeed": 32069,
+        "getByLevelUp": 121
+    },
+    {
+        "level": 64,
+        "eachNeed": 1770,
+        "realNeed": 1648,
+        "totalNeed": 33839,
+        "getByLevelUp": 122
+    },
+    {
+        "level": 65,
+        "eachNeed": 1770,
+        "realNeed": 1647,
+        "totalNeed": 35609,
+        "getByLevelUp": 123
+    },
+    {
+        "level": 66,
+        "eachNeed": 2655,
+        "realNeed": 2531,
+        "totalNeed": 38264,
+        "getByLevelUp": 124
+    },
+    {
+        "level": 67,
+        "eachNeed": 2655,
+        "realNeed": 2530,
+        "totalNeed": 40919,
+        "getByLevelUp": 125
+    },
+    {
+        "level": 68,
+        "eachNeed": 2655,
+        "realNeed": 2529,
+        "totalNeed": 43574,
+        "getByLevelUp": 126
+    },
+    {
+        "level": 69,
+        "eachNeed": 2655,
+        "realNeed": 2528,
+        "totalNeed": 46229,
+        "getByLevelUp": 127
+    },
+    {
+        "level": 70,
+        "eachNeed": 2655,
+        "realNeed": 2527,
+        "totalNeed": 48884,
+        "getByLevelUp": 128
+    },
+    {
+        "level": 71,
+        "eachNeed": 2655,
+        "realNeed": 2526,
+        "totalNeed": 51539,
+        "getByLevelUp": 129
+    },
+    {
+        "level": 72,
+        "eachNeed": 2655,
+        "realNeed": 2525,
+        "totalNeed": 54194,
+        "getByLevelUp": 130
+    },
+    {
+        "level": 73,
+        "eachNeed": 2655,
+        "realNeed": 2524,
+        "totalNeed": 56849,
+        "getByLevelUp": 131
+    },
+    {
+        "level": 74,
+        "eachNeed": 2655,
+        "realNeed": 2523,
+        "totalNeed": 59504,
+        "getByLevelUp": 132
+    },
+    {
+        "level": 75,
+        "eachNeed": 2655,
+        "realNeed": 2522,
+        "totalNeed": 62159,
+        "getByLevelUp": 133
+    },
+    {
+        "level": 76,
+        "eachNeed": 2655,
+        "realNeed": 2521,
+        "totalNeed": 64814,
+        "getByLevelUp": 134
+    },
+    {
+        "level": 77,
+        "eachNeed": 3540,
+        "realNeed": 3405,
+        "totalNeed": 68354,
+        "getByLevelUp": 135
+    },
+    {
+        "level": 78,
+        "eachNeed": 3540,
+        "realNeed": 3404,
+        "totalNeed": 71894,
+        "getByLevelUp": 136
+    },
+    {
+        "level": 79,
+        "eachNeed": 3540,
+        "realNeed": 3403,
+        "totalNeed": 75434,
+        "getByLevelUp": 137
+    },
+    {
+        "level": 80,
+        "eachNeed": 3540,
+        "realNeed": 3402,
+        "totalNeed": 78974,
+        "getByLevelUp": 138
+    },
+    {
+        "level": 81,
+        "eachNeed": 3540,
+        "realNeed": 3401,
+        "totalNeed": 82514,
+        "getByLevelUp": 139
+    },
+    {
+        "level": 82,
+        "eachNeed": 3540,
+        "realNeed": 3400,
+        "totalNeed": 86054,
+        "getByLevelUp": 140
+    },
+    {
+        "level": 83,
+        "eachNeed": 3540,
+        "realNeed": 3399,
+        "totalNeed": 89594,
+        "getByLevelUp": 141
+    },
+    {
+        "level": 84,
+        "eachNeed": 3540,
+        "realNeed": 3398,
+        "totalNeed": 93134,
+        "getByLevelUp": 142
+    },
+    {
+        "level": 85,
+        "eachNeed": 3540,
+        "realNeed": 3397,
+        "totalNeed": 96674,
+        "getByLevelUp": 143
+    },
+    {
+        "level": 86,
+        "eachNeed": 3540,
+        "realNeed": 3396,
+        "totalNeed": 100214,
+        "getByLevelUp": 144
+    },
+    {
+        "level": 87,
+        "eachNeed": 3540,
+        "realNeed": 3395,
+        "totalNeed": 103754,
+        "getByLevelUp": 145
+    },
+    {
+        "level": 88,
+        "eachNeed": 3540,
+        "realNeed": 3394,
+        "totalNeed": 107294,
+        "getByLevelUp": 146
+    },
+    {
+        "level": 89,
+        "eachNeed": 3540,
+        "realNeed": 3393,
+        "totalNeed": 110834,
+        "getByLevelUp": 147
+    },
+    {
+        "level": 90,
+        "eachNeed": 3540,
+        "realNeed": 3392,
+        "totalNeed": 114374,
+        "getByLevelUp": 148
+    },
+    {
+        "level": 91,
+        "eachNeed": 3540,
+        "realNeed": 3391,
+        "totalNeed": 117914,
+        "getByLevelUp": 149
+    },
+    {
+        "level": 92,
+        "eachNeed": 3540,
+        "realNeed": 3390,
+        "totalNeed": 121454,
+        "getByLevelUp": 150
+    },
+    {
+        "level": 93,
+        "eachNeed": 3540,
+        "realNeed": 3389,
+        "totalNeed": 124994,
+        "getByLevelUp": 151
+    },
+    {
+        "level": 94,
+        "eachNeed": 3540,
+        "realNeed": 3388,
+        "totalNeed": 128534,
+        "getByLevelUp": 152
+    },
+    {
+        "level": 95,
+        "eachNeed": 3540,
+        "realNeed": 3387,
+        "totalNeed": 132074,
+        "getByLevelUp": 153
+    },
+    {
+        "level": 96,
+        "eachNeed": 3540,
+        "realNeed": 3386,
+        "totalNeed": 135614,
+        "getByLevelUp": 154
+    },
+    {
+        "level": 97,
+        "eachNeed": 3540,
+        "realNeed": 3385,
+        "totalNeed": 139154,
+        "getByLevelUp": 155
+    },
+    {
+        "level": 98,
+        "eachNeed": 3540,
+        "realNeed": 3384,
+        "totalNeed": 142694,
+        "getByLevelUp": 156
+    },
+    {
+        "level": 99,
+        "eachNeed": 3540,
+        "realNeed": 3383,
+        "totalNeed": 146234,
+        "getByLevelUp": 157
+    },
+    {
+        "level": 100,
+        "eachNeed": 3540,
+        "realNeed": 3382,
+        "totalNeed": 149774,
+        "getByLevelUp": 158
+    },
+    {
+        "level": 101,
+        "eachNeed": 3540,
+        "realNeed": 3381,
+        "totalNeed": 153314,
+        "getByLevelUp": 159
+    },
+    {
+        "level": 102,
+        "eachNeed": 4425,
+        "realNeed": 4265,
+        "totalNeed": 157739,
+        "getByLevelUp": 160
+    },
+    {
+        "level": 103,
+        "eachNeed": 4425,
+        "realNeed": 4264,
+        "totalNeed": 162164,
+        "getByLevelUp": 161
+    },
+    {
+        "level": 104,
+        "eachNeed": 4425,
+        "realNeed": 4263,
+        "totalNeed": 166589,
+        "getByLevelUp": 162
+    },
+    {
+        "level": 105,
+        "eachNeed": 4425,
+        "realNeed": 4262,
+        "totalNeed": 171014,
+        "getByLevelUp": 163
+    },
+    {
+        "level": 106,
+        "eachNeed": 4425,
+        "realNeed": 4261,
+        "totalNeed": 175439,
+        "getByLevelUp": 164
+    },
+    {
+        "level": 107,
+        "eachNeed": 4425,
+        "realNeed": 4260,
+        "totalNeed": 179864,
+        "getByLevelUp": 165
+    },
+    {
+        "level": 108,
+        "eachNeed": 4425,
+        "realNeed": 4259,
+        "totalNeed": 184289,
+        "getByLevelUp": 166
+    },
+    {
+        "level": 109,
+        "eachNeed": 4425,
+        "realNeed": 4258,
+        "totalNeed": 188714,
+        "getByLevelUp": 167
+    },
+    {
+        "level": 110,
+        "eachNeed": 4425,
+        "realNeed": 4257,
+        "totalNeed": 193139,
+        "getByLevelUp": 168
+    },
+    {
+        "level": 111,
+        "eachNeed": 4425,
+        "realNeed": 4256,
+        "totalNeed": 197564,
+        "getByLevelUp": 169
+    },
+    {
+        "level": 112,
+        "eachNeed": 4425,
+        "realNeed": 4255,
+        "totalNeed": 201989,
+        "getByLevelUp": 170
+    },
+    {
+        "level": 113,
+        "eachNeed": 4425,
+        "realNeed": 4254,
+        "totalNeed": 206414,
+        "getByLevelUp": 171
+    },
+    {
+        "level": 114,
+        "eachNeed": 4425,
+        "realNeed": 4253,
+        "totalNeed": 210839,
+        "getByLevelUp": 172
+    },
+    {
+        "level": 115,
+        "eachNeed": 4425,
+        "realNeed": 4252,
+        "totalNeed": 215264,
+        "getByLevelUp": 173
+    },
+    {
+        "level": 116,
+        "eachNeed": 4425,
+        "realNeed": 4251,
+        "totalNeed": 219689,
+        "getByLevelUp": 174
+    },
+    {
+        "level": 117,
+        "eachNeed": 4425,
+        "realNeed": 4250,
+        "totalNeed": 224114,
+        "getByLevelUp": 175
+    },
+    {
+        "level": 118,
+        "eachNeed": 4425,
+        "realNeed": 4249,
+        "totalNeed": 228539,
+        "getByLevelUp": 176
+    },
+    {
+        "level": 119,
+        "eachNeed": 4425,
+        "realNeed": 4248,
+        "totalNeed": 232964,
+        "getByLevelUp": 177
+    },
+    {
+        "level": 120,
+        "eachNeed": 4425,
+        "realNeed": 4247,
+        "totalNeed": 237389,
+        "getByLevelUp": 178
+    }
+]
